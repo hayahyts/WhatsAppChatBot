@@ -1,0 +1,206 @@
+Input: 3tw3
+Output: Where is it
+Input: Where is it
+Output: Pls can Ibrahim come out
+Input: Pls can Ibrahim come out. It’s hot here 🙏🏿. Ibrahim dey chop biscuits. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a video.. sent a video.
+Output: 😍😍😍😍
+Input: 😍😍😍😍. Eiiii how 😂😂. Which teeth 😂
+Output: 😂his two teeth and his gums hw3
+Input: 😂his two teeth and his gums hw3
+Output: 😂😂😂
+Input: 😂😂😂
+Output: He even took ice creams
+Input: He even took ice creams
+Output: 😂😂😂
+Input: 😂😂😂. Who bought it
+Output: sent a video.
+Input: sent a video.
+Output: Ah ewuradi 😂😂😂
+Input: Ah ewuradi 😂😂😂
+Output: sent a sticker.
+Input: sent a sticker.
+Output: sent a sticker.
+Input: sent a sticker.. sent a sticker.
+Output: I had to sack them
+Input: I had to sack them
+Output: sent a sticker.
+Input: sent a sticker.. sent a sticker.. sent a sticker.. sent a sticker.. sent a sticker.
+Output: They kept giving him and giving him
+Input: They kept giving him and giving him
+Output: sent a sticker.
+Input: sent a sticker.. sent a sticker.. sent a sticker.. sent a sticker.. sent a sticker.. sent a sticker.. sent a sticker.. sent a sticker.. sent a sticker.. sent a sticker.. sent a sticker.. Now u have stickers 😂😂😂
+Output: sent a sticker.
+Input: sent a sticker.. sent a sticker.. Thank u😂
+Output: 😂😂😂
+Input: 😂😂😂
+Output: He has torn my dad’s tasbah😂
+Input: He has torn my dad’s tasbah😂
+Output: 🤣🤣🤣
+Input: 🤣🤣🤣
+Output: Are you at the waazi place
+Input: Are you at the waazi place. Guess what 
+Output: Yeah
+Input: Yeah. 😂😂😂. Alhamdulillah
+Output: I opened the middle wardrobe some minutes ago
+Input: I opened the middle wardrobe some minutes ago. It open easily as if that’s not the same key I’ve been trying for months!. Got some documents her money. She requested 20000 in Sept 2021
+Output: Oh nice
+Input: Oh nice
+Output: Meaning there’s 20000
+Input: Meaning there’s 20000
+Output: Eiiii 😂😂
+Input: Eiiii 😂😂
+Output: But one balance slip has 27000 there
+Input: But one balance slip has 27000 there. And plenty slips . So I don’t know exactly how much is there. And the clothes too she arranged the ones that aren’t hers at the bottom . So I’m sure she’s trying to say . Cuz that’s the only thing there . And some of her jewelry
+Output: Waawolo 😂😂😂
+Input: Waawolo 😂😂😂
+Output: All will go and pay debt 😂
+Input: All will go and pay debt 😂. I saw another slip deposit of 10000 there. So I’m even confused. Looks like she tried to get her 20000 but they didn’t give her. And she borrowed. And used half for Huzaifa and probably deposited the other half. I’ll bring them home so I can use the dates to check the pattern. Meaning there might be her 20000 and additional deposits she made. Cuz there were plenty . Small small money. Just there were no withdrawal slips so dunno if she withdrew those ones
+Output: Oh okay
+Input: Oh okay
+Output: Are you back home ?
+Input: Are you back home ?
+Output: Just got home
+Input: Just got home. U no bed?
+Output: sent an audio
+Input: sent an audio. sent an audio
+Output: 😂😂😂😂
+Input: 😂😂😂😂
+Output: sent a video.
+Input: sent a video.
+Output: Is that ice cream
+Input: Is that ice cream
+Output: Yh
+Input: Yh. I’ve sold 2. Got 230 profit 🤩
+Output: Eiiii wow
+Input: Eiiii wow. Alhamdulillah
+Output: 3rd one -110
+Input: 3rd one -110. Ei 4th one 100gh🥳🥳. Ur sim drank palm nut soup😂😂. Son*
+Output: 🤣🤣🤣🤣🤣
+Input: 🤣🤣🤣🤣🤣. With pepper?
+Output: Got two pre orders 🤭🤭
+Input: Got two pre orders 🤭🤭. Yh. But not plenty
+Output: Same dresses?
+Input: Same dresses?
+Output: sent a video.
+Input: sent a video.
+Output: 😂😂😂
+Input: 😂😂😂
+Output: Yhh🤭
+Input: Yhh🤭. sent a document.. sent a document.. sent a document.. sent a document.. sent a document.. sent a document.. sent a document.. sent a document.. sent a document.. sent a document.. sent a document.. sent a document.. sent a document.. sent a document.. sent a document.. sent a document.. sent a document.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a video.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a video.. sent a photo.. sent a video.. sent a video.
+Output: sent a video.
+Input: sent a video.. 0247651606. Mary Ashanti. 0545493727
+Output: sent a photo.
+Input: sent a photo.. sent a video.. sent a video.. sent a video.. sent a video.
+Output: 0246267167
+Input: 0246267167. Please send 1000
+Output: Alright
+Input: Alright. sent a document.
+Output: 0593367402
+Input: 0593367402
+Output: Ludu
+Input: Ludu. *LUDU*. Ah Chale your kids pls when u see them talk to them wai 
+Output: Y wosop
+Input: Y wosop
+Output: I was the top
+Input: I was the top. Heard banging
+Output: Ah
+Input: Ah
+Output: Both doors
+Input: Both doors
+Output: Eiiii
+Input: Eiiii. Don’t worry, I’ll speak with them
+Output: I came down and they were even turning the handles
+Input: I came down and they were even turning the handles
+Output: Sorry wai
+Input: Sorry wai
+Output: And still banging
+Input: And still banging
+Output: Ah
+Input: Ah. Seriously?
+Output: If I knew it’s it’s them Iike I won’t even rush down
+Input: If I knew it’s it’s them Iike I won’t even rush down. I thought some older person
+Output: Hmmm
+Input: Hmmm. But why do their mom allow them out by this time
+Output: Abi we are family
+Input: Abi we are family
+Output: 😂😂
+Input: 😂😂. It’s not cool kraa. I hope you didn’t open them
+Output: Naa
+Input: Naa. After banging and trying to open aaaa
+Output: 🤦‍♂️
+Input: 🤦‍♂️. Asem oo
+Output: Did u get the Ludu
+Input: Did u get the Ludu
+Output: No oo
+Input: No oo
+Output: Your Waybill No. GH020020640647 delivers today via William Lumor 0555289094,pls be available,speedaf.com
+Input: Your Waybill No. GH020020640647 delivers today via William Lumor 0555289094,pls be available,speedaf.com. sent a photo.. sent a photo.. sent a video.. sent a video.. sent a video.. sent a video.. sent a photo.. sent a photo.. sent a photo.. sent a video.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a video.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a video.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a video.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a video.. sent a video.. sent a video.. sent a video.. sent a photo.. sent a photo.. sent a photo.. sent a video.. sent a video.. sent a video.. sent a video.. sent a video.. sent a video.. sent a photo.. sent a photo.. sent a video.. sent a video.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a video.. sent a video.. sent a photo.. sent a video.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a video.. This. sent a photo.. ‎Contact card omitted
+Output: ‎Contact card omitted
+Input: ‎Contact card omitted. 😂😂😂
+Output: 😂hmm
+Input: 😂hmm
+Output: 😂
+Input: 😂. Please send 469
+Output: Sent
+Input: Sent
+Output: Thank you
+Input: Thank you. Please send 300
+Output: Sent
+Input: Sent
+Output: Thank you
+Input: Thank you
+Output: Can’t sleep 😢🥲
+Input: Can’t sleep 😢🥲
+Output: Eiiii
+Input: Eiiii
+Output: sent a sticker.
+Input: sent a sticker.
+Output: 0247116787
+Input: 0247116787. 020 139 7758 - Carpenter Jah bless
+Output: I forgot here too I must add charges ooo
+Input: I forgot here too I must add charges ooo. It’s deposit that they don’t charge. Trying to learn but network is very bad. sent a sticker.
+Output: sent an audio
+Input: sent an audio
+Output: Alright thank u
+Input: Alright thank u
+Output: Let me know if it works
+Input: Let me know if it works
+Output: 😂😂😂
+Input: 😂😂😂. Bye byee
+Output: Ma feri papa 😂😂😂
+Input: Ma feri papa 😂😂😂
+Output: Did ur eyes meet?😂
+Input: Did ur eyes meet?😂
+Output: Almost
+Input: Almost
+Output: It’s my brother not u😂
+Input: It’s my brother not u😂. Then u just do like you’re not aware mana
+Output: She’ll say I told you that
+Input: She’ll say I told you that. 😂😂😂
+Output: No
+Input: No. If u see her don’t do like u even know she came. Just be normal. Till she brings it up
+Output: 😂😂😂
+Input: 😂😂😂
+Output: U be like really
+Input: U be like really
+Output: 😂😂😂😂😂😂
+Input: 😂😂😂😂😂😂. Ayoo. Please send 1818. For bed
+Output: sent a photo.
+Input: sent a photo.
+Output: Thank you
+Input: Thank you
+Output: sent a photo.
+Input: sent a photo.. sent a photo.. sent a photo.. sent a video.. sent a photo.. https://wa.me/message/WSHC73Q5WYUNN1. Sessions 
+Output: Please send 285
+Input: Please send 285
+Output: sent a video.
+Input: sent a video.. sent a video.. sent a video.. sent a video.. sent a video.. sent a video.. sent a video.. sent a video.. sent a photo.. sent a photo.. sent a photo.. sent a video.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.. sent a photo.
+Output: Please call my mom
+Input: Please call my mom. She was calling me but I’m still speaking
+Output: Alright
+Input: Alright. 😂
+Output: 😂😂
+Input: 😂😂
+Output: Went to search for koko
+Input: Went to search for koko. Not getting
+Output: Oh
