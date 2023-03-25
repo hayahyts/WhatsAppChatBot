@@ -40,11 +40,10 @@ def read_chat_data(file_path):
     return input_output_pairs
 
 
-def write_pairs_to_file(pairs, output_path):
-    with open(output_path, "w") as file:
-        file.truncate(0)
-        for pair in pairs:
-            file.write(f"Input: {pair[0]}\nOutput: {pair[1]}\n")
+def save_input_output_pairs(input_output_pairs, file_path):
+    with open(file_path, "w") as file:
+        for input_text, output_text in input_output_pairs:
+            file.write(f"{input_text}\t{output_text}\n")
 
 
 def split_data(file_path):
@@ -77,7 +76,7 @@ def train_model():
     output_path = "input_output_pairs.txt"  # Replace with the path to the output file
 
     input_output_pairs = read_chat_data(file_path)
-    write_pairs_to_file(input_output_pairs, output_path)
+    save_input_output_pairs(input_output_pairs, output_path)
     split_data(output_path)
 
 
